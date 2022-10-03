@@ -1,4 +1,5 @@
 # Hi there 👋
+My Name is MD ARIF
 
 <!-- 
 **arifszl/arifszl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -15,20 +16,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
  -->
-- 🔭 Working on my classworks.
-- 🌱 I’m currently learning DSA and Node.js.
+- 🔭 Working on my classworks and projects.
+- 🌱 I’m currently learning DSA,Node.js and MongoDB.
 - 💬 Ask me [mail](mailto:arif88058@gmail.com)
 
 ## 📫 Reach me at
 [Linkedin](www.linkedin.com/in/md-arif-025377137)
 
-<!-- [Hackerrank](https://www.hackerrank.com/arifszl) -->
+[Hackerrank](https://www.hackerrank.com/arifszl) 
 
 
 
-<!-- ### Top Language used
+ ### Top Language used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifszl) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifszl) 
 
 ### My stats
 
