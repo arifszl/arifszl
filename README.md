@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [Hackerrank](https://www.hackerrank.com/arifszl) 
 
-
+[GeeksForGeeks](https://auth.geeksforgeeks.org/user/arifszl)
 
  ### Top Language used
 
