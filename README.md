@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  -->
 - 🔭 Working on my classworks and projects.
-- 🌱 I’m currently learning DSA,Node.js and MongoDB.
+- 🌱 I’m currently learning Python,Numpy,Pandas,PowerBI.
 - 💬 Ask me [mail](mailto:arif88058@gmail.com)
 
 ## 📫 Reach me at
@@ -46,11 +46,10 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arifszl&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arifszl&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arifszl&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
-### ✍️ Random Dev Quote
+### ✍Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
