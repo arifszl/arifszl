@@ -45,9 +45,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifszl&hide_progress=true)](https://github.com/arifszl/github-readme-stats)
 
-### 📊 My Stats:
+<!-- ### 📊 My Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arifszl&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arifszl&theme=merko&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arifszl&theme=merko&hide_border=false)<br/> -->
+
+![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifszl&show_icons=true&bg_color=00000000)
 
 
 
