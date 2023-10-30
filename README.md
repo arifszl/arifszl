@@ -42,7 +42,7 @@ Here are some ideas to get you started:
  ### 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,redux,nodejs,express,mongodb,mysql,postgres,firebase,html,css,tailwindcss,bootstrap,materialui,bash,cpp,python,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,mongodb,mysql,postgres,firebase,html,css,tailwindcss,bootstrap,materialui,cpp,python,git,github&theme=dark" />
   </a>
 </p>
 
