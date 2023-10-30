@@ -40,7 +40,13 @@ Here are some ideas to get you started:
 <p align="center"<a href="#"><img alt="Arif Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arifszl&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
  -->
  ### 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,redux,nodejs,express,mongodb,mysql,postgres,firebase,html,css,tailwindcss,bootstrap,materialui,bash,cpp,python,git,github&theme=dark" />
+  </a>
+</p>
+
+
  ### Top Language used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifszl&hide_progress=true)](https://github.com/arifszl/github-readme-stats)
@@ -48,8 +54,8 @@ Here are some ideas to get you started:
 <!-- ### 📊 My Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arifszl&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
  -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=arifszl&theme=merko&hide_border=false)<br/>
-![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifszl&show_icons=true&bg_color=00000000)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/arifszl?cardType=github&theme=algolia&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 
 
