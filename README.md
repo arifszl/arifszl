@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
  -->
-- 🔭 Working on my classworks and projects.
+- 🔭 Working on my projects | Exploring new Tech.
 - 🌱 I’m currently learning Python,Numpy,Pandas,PowerBI.
 - 💬 Ask me [mail](mailto:arif88058@gmail.com)
 
